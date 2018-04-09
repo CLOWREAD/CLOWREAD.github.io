@@ -34,6 +34,8 @@ tags:
       }
       offset += bit<<i;
     }
+
+
 逆序:
 
     distcode = 0;
@@ -106,6 +108,8 @@ Distance Code:
          7   2  13-16   17   7    385-512   27   12 12289-16384
          8   3  17-24   18   8    513-768   28   13 16385-24576
          9   3  25-32   19   8   769-1024   29   13 24577-32768
+
+
 Fixed Huffman codes (BTYPE=01):
 
       Lit Value    Bits        Codes
