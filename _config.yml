@@ -1,6 +1,6 @@
 # Site settings
-title: ClowRead's Blog
-SEOTitle: 你的博客 | Your Blog
+title: (づ￣ 3￣)づ
+SEOTitle: 王思源的博客 | SiyuanWang's Blog
 header-img: img/home-bg.jpg
 email: clow_read@outlook.com
 description: ""
@@ -49,12 +49,6 @@ kramdown:
 # Disqus settings
 #disqus_username: _your_disqus_short_name_
 
-# Duoshuo settings
-duoshuo_username: clowread
-# Share component is depend on Comment so we can NOT use share only.
-duoshuo_share: true                     # set to false if you want to use Comment without Sharing
-
-
 
 
 # Analytics settings
@@ -68,7 +62,7 @@ duoshuo_share: true                     # set to false if you want to use Commen
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "花Q"
+sidebar-about-description: "自己都不知道这是什么博客"
 sidebar-avatar: /img/github_clowread.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
