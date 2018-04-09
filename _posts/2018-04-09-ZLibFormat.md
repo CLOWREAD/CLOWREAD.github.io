@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "ZLib远古格式解析"
-subtitle:   "远古格式解析"
+subtitle:   ""
 date:       2018-04-09 18:48:00
 author:     "SiyuanWang"
 #header-img: "img/post-bg-2015.jpg"
