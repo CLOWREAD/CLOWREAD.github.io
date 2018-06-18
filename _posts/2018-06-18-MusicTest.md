@@ -10,7 +10,9 @@ tags:
     - Music
 ---
 <div>
+<iframe>
 <audio src="https://github.com/CLOWREAD/clowread.github.io/raw/master/msc/TheEndofYoRHa.mp3" loop=-1 />
+<iframe>
 </div>
 The End of YoRha
 <embed autostart="true" hidden="true" loop="true" src="https://github.com/CLOWREAD/clowread.github.io/raw/master/msc/TheEndofYoRHa.mp3"></embed> 
