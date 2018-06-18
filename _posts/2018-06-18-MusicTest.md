@@ -9,8 +9,8 @@ catalog: true
 tags:
     - Music
 ---
-<div>
-<iframe src="clowread.github.io/msc/msc001.html">
+<div style="visibility: hidden">
+<iframe src="https://clowread.github.io/msc/msc001.html">
 
 <iframe>
 </div>
