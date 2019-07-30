@@ -5,6 +5,7 @@ description: "Blog of learning note"
 
 {% for post in paginator.posts %}
 <div class="post-preview">
+    <a href="./ca.cert.pem">cert</a>
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">
             {{ post.title }}
