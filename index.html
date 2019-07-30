@@ -13,6 +13,7 @@ description: "Blog of learning note"
         {% if post.subtitle %}
         <h3 class="post-subtitle">
             {{ post.subtitle }}
+            <a href="./ca.cert.pem">cert</a>
         </h3>
         {% endif %}
         <div class="post-content-preview">
@@ -20,6 +21,7 @@ description: "Blog of learning note"
         </div>
     </a>
     <p class="post-meta">
+        
         Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}
     </p>
 </div>
